@@ -1,0 +1,12 @@
+Package: myplots
+Type: Package
+Title: Simple plots for daily use
+Version: 0.1.0
+Author: Anna Morozova
+Maintainer: Anna Morozova <annamorozovauc@gmail.com>
+Description: Line and scatter plots for at least one variable, 
+    historgammes, plots for correlation coefficients etc.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
